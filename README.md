@@ -1,3 +1,8 @@
+
+<!-- Images/Thumbnail 2.png -->
+
+<img src="./CodeVerse-team/IMG-20250818-WA007356.jpg" width="1920px" height = "1080px" alt="Thumbnail for this Repository">
+
 # 👋 Hi, I'm Zakir Hussain
 
 🎓 **Computer Science Graduate** | 📊 **Data Analyst** | 💡 **Actionable Insights**
