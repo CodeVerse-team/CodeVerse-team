@@ -12,7 +12,7 @@ Motivated and detail-oriented Computer Science graduate specializing in **Data A
 
 ## 💼 Experience
 
-- **WordPress Developer (Internship)** at *DigiFala Digital Beginning LLP*
+- **WordPress Developer (Internship)** at *DigiFalx Digital Beginning LLP*
   -  Currently working as a WordPress Developer Intern.
   -  *Skills used: WordPress, PHP, and web development skills*.
 
@@ -65,10 +65,10 @@ Motivated and detail-oriented Computer Science graduate specializing in **Data A
 
 ## 📫 Let's Connect
 
-🔗 **LinkedIn:** [[Your LinkedIn Link]](https://www.linkedin.com/in/zakirhussain13/)
+🔗 **LinkedIn:** [[LINK]](https://www.linkedin.com/in/zakirhussain13/)
 📧 **Email:** zakirhussain132006@gmail.com
-🌐 **Portfolio:** [[Your Portfolio Link]](https://codeverse-team.github.io/Zakir-Data-Portfolio/)
-💼 **Fiverr:** [[Your Fiverr Link]](https://www.fiverr.com/s/BRvPrEW)
+🌐 **Portfolio:** [[Website LINK]](https://codeverse-team.github.io/Zakir-Data-Portfolio/)
+💼 **Fiverr:** [[Fiverr Link]](https://www.fiverr.com/s/BRvPrEW)
 
 ---
 
